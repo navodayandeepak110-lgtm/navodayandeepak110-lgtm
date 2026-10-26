@@ -9,7 +9,7 @@
 
 > *"Consistency turns dreams into reality."* &nbsp;•&nbsp; *"Better Code, Better You"*
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepak__navodayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepak-kumar-188135447/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navodayandeepak110@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepak__navodayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-188135447/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navodayandeepak110@gmail.com) 
 
 
 
