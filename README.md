@@ -4,7 +4,7 @@
 ### **BTech CSE Student | Java Developer | AI & Productivity Enthusiast**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+Java+%26+Data+Structures;Building+AI-Powered+Projects;Exploring+Backend+Development;Improving+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+Java+%26+Data+Structures;Building+AI-Powered+Projects;Exploring+Backend+Development;Improving+Every+Day" alt="Typing SVG" />
 </p>
 
 ## 🌐 Socials:
